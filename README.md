@@ -1,4 +1,4 @@
-# Data and Visual Analytics Section 01 Fall Semester 2019
+# Data and Visual Analytics - Fall 2019
 
 Team 02
 
